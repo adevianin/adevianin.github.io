@@ -40,12 +40,10 @@ Treats programming languages as tools, as the core principles of programming rem
 ### 🏢 Back-End / Front-End Developer — Master of Code Global
 2015 – 2022 | Cherkasy, Ukraine
 
-#### ZipifyPages (JS / Vue.js, Backbone.js)
-* Worked on ZipifyPages, a large e-commerce SaaS page builder for Shopify.
-* Developed advanced, high-complexity UI features using Vue.js, Backbone.js, and a heavily customized WYSIWYG editor built on Summernote.
-* Created numerous reusable UI components and implemented complex pop-ups, menus, and analytics visualizations.
-* Regularly performed code reviews, debugging, and refactoring to maintain code clarity and performance.
-* Mentored several junior developers, helping them understand project architecture, improve code quality, and follow best practices.
+#### ZipifyPages — Large e-commerce SaaS page builder for Shopify
+* Developed high-complexity UI features using Vue.js, Backbone.js, and a heavily customized WYSIWYG editor built on Summernote.
+* Regularly performed code reviews and refactoring to maintain code clarity and performance.
+* Mentored several junior developers, helping them understand project architecture and improve code quality.
 * _“Anton is a machine when it comes to delivering tasks of any complexity.”_ — Evaluator feedback, 2021
 
 ##### Contribution:
@@ -59,7 +57,7 @@ In 2018, submitted and merged a pull request to Summernote fixing a WYSIWYG edit
 
 ### 🏢 Junior Software Developer — Malkos(CoreValue)
 ~2012 – 2014 | Cherkasy, Ukraine
-* Worked on Java(JSP, Servlets) and JavaScript projects.
+* Developed commercial projects using Java (JSP, Servlets) and JavaScript.
 * Gained initial commercial experience and learned collaborative workflows.
 
 ## Education
@@ -67,13 +65,10 @@ In 2018, submitted and merged a pull request to Summernote fixing a WYSIWYG edit
 ### 🎓 Cherkasy State Technological University
 2010 – 2015 | Cherkasy, Ukraine<br>
 Specialist Degree – Information and Communication Systems Security
-* Studied computer science fundamentals, programming, and information security.
-* Gained foundational knowledge of algorithms, computer networks, and system architecture.
 
 ### 🎓 Geekhub IT Courses – Backend PHP (Symfony)
-2014 – 2015 | Cherkasy, Ukraine
-* Completed a practical backend web development course focused on PHP, Symfony, MySQL, and Git.
-* Built several small web applications during the course, applying MVC principles and RESTful API design.
+2014 – 2015 | Cherkasy, Ukraine<br>
+Backend Web Development Course (PHP, Symfony, MySQL)
 
 ## Other Pet Projects
 
