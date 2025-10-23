@@ -30,14 +30,14 @@ Git, Linux, Docker, Nginx, Caddy
 ### 🐜 Evolution of Ants — Multiplayer Simulation Game 
 2023 – 2025
 
-* Designed and developed a multiplayer real-time simulation game modeling the evolution and genetics of ant species.
-* Implemented real-world ant genetics principles, including genomes, chromosomes, meiosis, and gene dominance, to simulate authentic biological inheritance and evolution.
-* Developed a multi-process backend architecture: Django (web/API) + custom Python engine (simulation loop).
+* Designed and developed a **multiplayer real-time simulation game** modeling the evolution and genetics of ant species.
+* Implemented **real-world ant genetics principles**, including genomes, chromosomes, meiosis, and gene dominance, to simulate authentic biological inheritance and evolution.
+* Developed a **multi-process backend** architecture: Django (web/API) + custom Python engine (simulation loop).
 * Used Redis Pub/Sub for interprocess communication between Django and the simulation engine.
-* Implemented Clean Architecture on both client and server sides, fully isolating domain logic.
+* Implemented **Clean Architecture** on both client and server sides, fully isolating domain logic.
 * Created a browser-based renderer (Pixi.js + Web Worker) for smooth UI animations at 1 Hz world updates.
-* Fully playable on modern desktop and mobile browsers with a responsive UI and smooth performance.
-* Achieved stable handling of ~8000 ants in real time on an Intel i7-1165G7 @ 2.80GHz.
+* Fully **playable on modern desktop and mobile** browsers with a **responsive UI** and smooth performance.
+* Achieved stable handling of **~8000 ants in real time** on an Intel i7-1165G7 @ 2.80GHz.
 
 🔗 **Architecture overview and source code:** [GitHub](https://github.com/adevianin/bugs)<br>
 🎮 **Play online:** [https://evolutionofants.click](https://evolutionofants.click/)<br>
