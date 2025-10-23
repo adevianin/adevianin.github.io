@@ -74,7 +74,7 @@ In 2018, submitted and merged a pull request to Summernote fixing a WYSIWYG edit
 * Developed backend functionality using PHP (Laravel), focusing on RESTful API design, database management, and business logic implementation.
 * Collaborated with front-end teams to ensure smooth integration between client and server components.
 
-### 🏢 Junior Software Developer — MalkosUA / CoreValue
+### 🏢 Junior Software Developer — Malkos(CoreValue)
 ~2012 – 2014 | Cherkasy, Ukraine
 
 * Worked on Java and JavaScript projects as part of a distributed team (Cherkasy / Lviv).
