@@ -23,7 +23,7 @@ Treats programming languages as tools, as the core principles of programming rem
 
 ## Experience
 
-### 🐜 Evolution of Ants — Multiplayer Simulation Game 
+### 🐜 Evolution of Ants — Multiplayer Simulation Game (Personal Project)
 2023 – 2025
 
 * Designed and developed a **multiplayer real-time simulation game** modeling the evolution and genetics of ant species.
@@ -66,7 +66,7 @@ In 2018, submitted and merged a pull request to Summernote fixing a WYSIWYG edit
 2010 – 2015 | Cherkasy, Ukraine<br>
 Specialist Degree – Information and Communication Systems Security
 
-### 🎓 Geekhub IT Courses – Backend PHP (Symfony)
+### 🎓 Geekhub IT Courses
 2014 – 2015 | Cherkasy, Ukraine<br>
 Backend Web Development Course (PHP, Symfony, MySQL)
 
