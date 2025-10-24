@@ -34,7 +34,7 @@ Treats programming languages as tools, as the core principles of programming rem
 * Developed a **multi-process backend** architecture: Django (web/API) + custom Python engine (simulation loop).
 * Implemented **Clean Architecture** on both client and server sides, fully isolating domain logic.
 * Fully **playable on modern desktop and mobile** browsers with a **responsive UI** and smooth performance.
-* Achieved stable handling of **~8000 ants in real time** on an Intel i7-1165G7 @ 2.80GHz.
+* Achieved stable handling of **~8000 ants in real time** on an Intel Core i7-1165G7.
 
 🔗 **Architecture overview and source code:** [GitHub](https://github.com/adevianin/bugs)<br>
 🎮 **Play online:** [https://evolutionofants.click](https://evolutionofants.click/)<br>
