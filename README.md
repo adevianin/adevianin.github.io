@@ -49,8 +49,8 @@ Treats programming languages as tools, as the core principles of programming rem
 * Mentored several junior developers, helping them understand project architecture and improve code quality.
 * _“Anton is a machine when it comes to delivering tasks of any complexity.”_ — Evaluator feedback, 2021
 
-##### Contribution:
-In 2018, submitted and merged a pull request to Summernote fixing a WYSIWYG editor bug.
+##### Open-Source Contribution:
+In 2018, submitted a pull request that was successfully merged into the Summernote repository, fixing a WYSIWYG editor bug.
 [PR #2650](https://github.com/summernote/summernote/pull/2650)
 
 #### Other Projects (PHP / Laravel Backend Development)
