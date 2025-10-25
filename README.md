@@ -91,4 +91,4 @@ Backend Web Development Course (PHP, Symfony, MySQL)
 
 ## Languages
 * Ukrainian: Native
-* English: Intermediate
+* English: B2 (technical), B1 (overall)
