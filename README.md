@@ -2,7 +2,7 @@ Full-Stack Developer<br>
 Cherkasy, Ukraine 🇺🇦 | Remote<br>
 Portfolio: [evolutionofants.click](https://evolutionofants.click/)<br>
 GitHub: [github.com/adevianin](https://github.com/adevianin)<br>
-LinkedIn: [adevianin](https://www.linkedin.com/in/adevianin/)<br>
+LinkedIn: [linkedin.com/in/adevianin](https://www.linkedin.com/in/adevianin/)<br>
 Email: adevianin@gmail.com
 
 ## Summary
