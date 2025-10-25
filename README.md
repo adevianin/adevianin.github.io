@@ -31,7 +31,7 @@ Treats programming languages as tools, as the core principles of programming rem
 
 * Designed and developed a **multiplayer real-time simulation game** modeling the evolution and genetics of ant species.
 * Implemented **real-world ant genetics principles**, including genomes, chromosomes, meiosis, and gene dominance, to simulate authentic biological inheritance and evolution.
-* Developed a **multi-process backend** architecture: Django (web/API) + custom Python engine (simulation loop).
+* Developed a **multi-process asynchronous backend**: Django ASGI server (Daphne) handling web API and WebSocket communication, connected via Redis Pub/Sub to a real-time game world simulation process.
 * Implemented **Clean Architecture** on both client and server sides, fully isolating domain logic.
 * Fully **playable on modern desktop and mobile** browsers with a **responsive UI** and smooth performance.
 * Achieved stable handling of **~8000 ants in real time** on an Intel Core i7-1165G7.
@@ -58,7 +58,7 @@ In 2018, submitted a pull request that was successfully merged into the Summerno
 * Developed backend functionality using PHP (Laravel), focusing on RESTful API design, database management, and business logic implementation.
 * Collaborated with front-end teams to ensure smooth integration between client and server components.
 
-### 🏢 Junior Software Developer — Malkos(CoreValue)
+### 🏢 Junior Software Developer — Malkos (CoreValue)
 ~2012 – 2014 | Cherkasy, Ukraine
 * Developed commercial projects using Java (JSP, Servlets) and JavaScript.
 * Gained initial commercial experience and learned collaborative workflows.
