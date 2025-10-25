@@ -19,7 +19,7 @@ Treats programming languages as tools, as the core principles of programming rem
 
 **Frontend:** JavaScript, Pixi.js, Vue.js, Web Worker, WebSocket, HTML, CSS, WYSIWYG, Webpack
 
-**Backend:** Python (Django, asyncio, concurrency), Node.js (Express), PHP (Laravel, Symfony), OAuth 2.0, Redis, Relational Databases
+**Backend:** Python (Django), Node.js (Express), PHP (Laravel, Symfony), OAuth 2.0, Redis, Relational Databases
 
 **Architecture & Patterns:** Clean Architecture, Hexagonal Architecture, Domain-Driven Design, Event-Driven Systems, SOLID, Modular Design, GoF Design Patterns
 
