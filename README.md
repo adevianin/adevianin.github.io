@@ -31,7 +31,7 @@ Treats programming languages as tools, as the core principles of programming rem
 
 * Designed and developed a **multiplayer real-time simulation game** modeling the evolution and genetics of ant species.
 * Implemented **real-world ant genetics principles**, including genomes, chromosomes, meiosis, and gene dominance, to simulate authentic biological inheritance and evolution.
-* Developed a **multi-process asynchronous backend**: Django ASGI server (Daphne) handling web API and WebSocket communication, connected via Redis Pub/Sub to a real-time game world simulation process.
+* Developed a **multi-process asynchronous backend**: Django ASGI server (Daphne) handling HTTP requests and WebSockets, connected via Redis Pub/Sub to a real-time game world simulation process.
 * Implemented **Clean Architecture** on both client and server sides, fully isolating domain logic.
 * Fully **playable on modern desktop and mobile** browsers with a **responsive UI** and smooth performance.
 * Achieved stable handling of **~8000 ants in real time** on an Intel Core i7-1165G7.
