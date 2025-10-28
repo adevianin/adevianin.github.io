@@ -11,9 +11,7 @@ Passionate Full-Stack Developer with 8+ years of practical experience in profess
 
 Focused on technical excellence and code quality, with the ability to design and implement complete web systems, from highly interactive user interfaces with complex logic and animations to robust backend architectures decoupled into multiple processes.
 
-Aims to build software based on strong engineering principles, including Clean Architecture, SOLID, and Domain-Driven Design (DDD), to make systems reliable, scalable, and easy to maintain in the long run.
-
-Treats programming languages as tools, as the core principles of programming remain the same across them. With a solid understanding of Object-Oriented Programming (OOP), can write high-quality, maintainable code in any language.
+Driven by strong engineering principles, including Clean Architecture, SOLID, and Domain-Driven Design (DDD), ensuring that systems remain reliable, scalable, and easy to maintain in the long run. Technology-agnostic mindset and solid software design skills help me adapt quickly to new tools and deliver clean, maintainable solutions.
 
 ## 🛠️ Technical Skills
 
