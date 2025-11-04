@@ -37,7 +37,7 @@ Driven by strong engineering principles, including Clean Architecture, SOLID, an
 * Maintained a stable **1 Hz simulation tick rate**, ensuring consistent real-time world state synchronization for all users.
 * Deployed as a **production-ready web product**, supported by runtime activity metrics and continuous improvement.
 
-✅ **Result:** Independent R&D startup, live production system with real users<br>
+✅ **Result:** Early-stage independent R&D startup with a live production system and real user testing.<br>
 🔗 **Architecture overview and source code:** [GitHub](https://github.com/adevianin/bugs)<br>
 🎮 **Play online:** [https://evolutionofants.click](https://evolutionofants.click/)<br>
 🎥 **Gameplay video (with subtitles):** [YouTube video](https://www.youtube.com/watch?v=fMoLUvllM98)
