@@ -7,7 +7,7 @@ Email: adevianin@gmail.com
 
 ## Summary
 
-Passionate Full-Stack Developer with 8+ years of practical experience in professional web development.
+Passionate Full-Stack Developer with 9+ years of practical experience in professional web development.
 
 Focused on technical excellence and code quality, with the ability to design and implement complete web systems, from highly interactive user interfaces with complex logic and animations to robust backend architectures decoupled into multiple processes.
 
