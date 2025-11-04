@@ -26,7 +26,7 @@ Driven by strong engineering principles, including Clean Architecture, SOLID, an
 ## Experience
 
 ### 🐜 Evolution of Ants — Real-Time R&D Simulation System
-2022 – 2025
+2022 – Present
 
 * Owned the full **R&D and product development lifecycle** of a high-load **real-time** multiplayer evolution simulation system.
 * Engineered **biologically-accurate evolution mechanics**: genomes, chromosomes, gene dominance, mutation dynamics.
