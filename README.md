@@ -35,7 +35,7 @@ Driven by strong engineering principles, including Clean Architecture, SOLID, an
 * Built a **GPU-accelerated WebGL client (Pixi.js)** with **Web Worker** concurrency for simulation logic.
 * Performed deep profiling and optimization to support **~8000 independent agents in real time** on an Intel Core i7-1165G7.
 * Maintained a stable **1 Hz simulation tick rate**, ensuring consistent real-time world state synchronization for all users.
-* Deployed as a **production-ready web product**, supported by runtime activity metrics and continuous improvement.
+* Deployed as a **production-ready web product** with basic runtime metrics used for performance monitoring and improvements.
 
 ✅ **Result:** Early-stage independent R&D startup with a live production system and real user testing.<br>
 🔗 **Architecture overview and source code:** [GitHub](https://github.com/adevianin/bugs)<br>
