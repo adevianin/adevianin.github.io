@@ -25,16 +25,19 @@ Driven by strong engineering principles, including Clean Architecture, SOLID, an
 
 ## Experience
 
-### 🐜 Evolution of Ants — Multiplayer Simulation Game (Personal Project)
-2023 – 2025
+### 🐜 Evolution of Ants — Real-Time R&D Simulation System
+2022 – 2025
 
-* Designed and developed a **multiplayer real-time simulation game** modeling the evolution and genetics of ant species.
-* Implemented **real-world ant genetics principles**, including genomes, chromosomes, meiosis, and gene dominance, to simulate authentic biological inheritance and evolution.
-* Developed a **multi-process asynchronous backend**: Django ASGI server (Daphne) handling HTTP requests and WebSockets, connected via Redis Pub/Sub to a real-time game world simulation process.
-* Implemented **Clean Architecture** on both client and server sides, fully isolating domain logic.
-* Fully **playable on modern desktop and mobile** browsers with a **responsive UI** and smooth performance.
-* Achieved stable handling of **~8000 ants in real time** on an Intel Core i7-1165G7.
+* Owned the full **R&D and product development lifecycle** of a high-load **real-time** multiplayer evolution simulation system.
+* Engineered **biologically-accurate evolution mechanics**: genomes, chromosomes, gene dominance, mutation dynamics.
+* Designed a **distributed multi-process backend architecture**: Django ASGI (Daphne) for HTTP/WebSockets + dedicated simulation engine process with Redis Pub/Sub for event-driven communication.
+* Implemented **Clean Architecture + DDD** on both client and server sides, fully isolating domain logic.
+* Built a **GPU-accelerated WebGL client (Pixi.js)** with **Web Worker** concurrency for simulation logic.
+* Performed deep profiling and optimization to support **~8000 independent agents in real time** on an Intel Core i7-1165G7.
+* Maintained a stable **1 Hz simulation tick rate**, ensuring consistent real-time world state synchronization for all users.
+* Deployed as a **production-ready web product**, supported by runtime activity metrics and continuous improvement.
 
+✅ **Result:** Independent R&D startup, live production system with real users<br>
 🔗 **Architecture overview and source code:** [GitHub](https://github.com/adevianin/bugs)<br>
 🎮 **Play online:** [https://evolutionofants.click](https://evolutionofants.click/)<br>
 🎥 **Gameplay video (with subtitles):** [YouTube video](https://www.youtube.com/watch?v=fMoLUvllM98)
@@ -53,8 +56,8 @@ In 2018, submitted a pull request that was successfully merged into the Summerno
 [PR #2650](https://github.com/summernote/summernote/pull/2650)
 
 #### Other Projects (PHP / Laravel Backend Development)
-* Worked for approximately 2 years on various projects before joining the ZipifyPages team.
-* Developed backend functionality using PHP (Laravel), focusing on RESTful API design, database management, and business logic implementation.
+* Worked for approximately 3+ years on various projects before joining the ZipifyPages team.
+* Developed backend functionality using PHP (Symphony, Laravel), focusing on RESTful API design, database management, and business logic implementation.
 * Collaborated with front-end teams to ensure smooth integration between client and server components.
 
 ### 🏢 Junior Software Developer — Malkos (CoreValue)
